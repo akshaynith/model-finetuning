@@ -1,0 +1,1 @@
+{'AutoConfig': 'configuration_phi3.Phi3Config', 'AutoModelForCausalLM': 'modeling_phi3.Phi3ForCausalLM'}

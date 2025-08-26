@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/model-finetuning/mlruns/0/939776e6de594f89b153996fe5263456/artifacts
+end_time: 1756213770184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 939776e6de594f89b153996fe5263456
+run_name: capable-auk-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756213660574
+status: 3
+tags: []
+user_id: akshaysi

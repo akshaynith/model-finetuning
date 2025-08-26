@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Hugging Face cache
+~/.cache/huggingface/
+
+# Model outputs and adapters
+adapters/
+phi3mini-*/
+*.safetensors
+
+# Environment files
+.env
+*.egg-info/
