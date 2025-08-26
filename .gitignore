@@ -8,10 +8,10 @@ __pycache__/
 # Hugging Face cache
 ~/.cache/huggingface/
 
-# Model outputs and adapters
-adapters/
-phi3mini-*/
-*.safetensors
+# # Model outputs and adapters
+# adapters/
+# phi3mini-*/
+# *.safetensors
 
 # Environment files
 .env
